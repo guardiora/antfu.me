@@ -1,4 +1,4 @@
-**[antfu.me](https://antfu.me)**
+**[openi.one](https://openi.one)**
 
 my personal website
 
